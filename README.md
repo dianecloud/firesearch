@@ -67,7 +67,7 @@ flowchart TB
     subgraph Sources["📄 Sources Found"]
         R1["Apple.com ✓<br/>The Verge ✓<br/>CNET ✓"]:::source
         R2["GSMArena ✓<br/>TechRadar ✓<br/>Samsung.com ✓"]:::source
-        R3["AndroidAuth ✓<br/>TomsGuide ✓"]:::source
+        R3["AndroidAuth ✓ ✓"]:::source
     end
     
     FC1 --> R1
